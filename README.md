@@ -56,4 +56,4 @@
         "income": "0",
         "rate": null
       }
-    ]
+]
